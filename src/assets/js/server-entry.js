@@ -1,0 +1,1 @@
+// server 渲染的入口、import React from 'react'import App from '../../views/Index.jsx'export default <App />
